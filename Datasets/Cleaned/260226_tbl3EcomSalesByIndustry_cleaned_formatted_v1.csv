@@ -1,0 +1,451 @@
+year,industry,population_basis,channel,sales_gbp_bn
+2010,manufacturing,10_plus,website,6.5
+2010,manufacturing,10_plus,edi,118.6
+2010,manufacturing,10_plus,total,125.2
+2011,manufacturing,10_plus,website,16.3
+2011,manufacturing,10_plus,edi,134.6
+2011,manufacturing,10_plus,total,150.9
+2012,manufacturing,10_plus,website,18.1
+2012,manufacturing,10_plus,edi,121.0
+2012,manufacturing,10_plus,total,139.2
+2013,manufacturing,10_plus,website,29.3
+2013,manufacturing,10_plus,edi,119.9
+2013,manufacturing,10_plus,total,149.2
+2014,manufacturing,10_plus,website,30.9
+2014,manufacturing,10_plus,edi,125.7
+2014,manufacturing,10_plus,total,156.6
+2015,manufacturing,10_plus,website,32.1
+2015,manufacturing,10_plus,edi,121.3
+2015,manufacturing,10_plus,total,153.4
+2016,manufacturing,10_plus,website,37.1
+2016,manufacturing,10_plus,edi,125.0
+2016,manufacturing,10_plus,total,162.1
+2017,manufacturing,10_plus,website,38.7
+2017,manufacturing,10_plus,edi,130.0
+2017,manufacturing,10_plus,total,168.7
+2018,manufacturing,10_plus,website,46.2
+2018,manufacturing,10_plus,edi,137.7
+2018,manufacturing,10_plus,total,183.8
+2019,manufacturing,10_plus,website,48.0
+2019,manufacturing,10_plus,edi,138.0
+2019,manufacturing,10_plus,total,186.0
+2015,manufacturing,all_includes_0_9,website,33.6
+2015,manufacturing,all_includes_0_9,edi,121.6
+2015,manufacturing,all_includes_0_9,total,155.2
+2016,manufacturing,all_includes_0_9,website,37.9
+2016,manufacturing,all_includes_0_9,edi,125.2
+2016,manufacturing,all_includes_0_9,total,163.1
+2017,manufacturing,all_includes_0_9,website,40.0
+2017,manufacturing,all_includes_0_9,edi,130.1
+2017,manufacturing,all_includes_0_9,total,170.1
+2018,manufacturing,all_includes_0_9,website,47.3
+2018,manufacturing,all_includes_0_9,edi,137.7
+2018,manufacturing,all_includes_0_9,total,185.0
+2019,manufacturing,all_includes_0_9,website,49.9
+2019,manufacturing,all_includes_0_9,edi,138.2
+2019,manufacturing,all_includes_0_9,total,188.1
+2010,utilities,10_plus,website,7.0
+2010,utilities,10_plus,edi,8.1
+2010,utilities,10_plus,total,15.1
+2011,utilities,10_plus,website,9.8
+2011,utilities,10_plus,edi,5.4
+2011,utilities,10_plus,total,15.2
+2012,utilities,10_plus,website,9.5
+2012,utilities,10_plus,edi,6.8
+2012,utilities,10_plus,total,16.2
+2013,utilities,10_plus,website,9.6
+2013,utilities,10_plus,edi,3.6
+2013,utilities,10_plus,total,13.2
+2014,utilities,10_plus,website,13.6
+2014,utilities,10_plus,edi,4.1
+2014,utilities,10_plus,total,17.7
+2015,utilities,10_plus,website,15.2
+2015,utilities,10_plus,edi,4.6
+2015,utilities,10_plus,total,19.8
+2016,utilities,10_plus,website,9.3
+2016,utilities,10_plus,edi,2.9
+2016,utilities,10_plus,total,12.2
+2017,utilities,10_plus,website,13.4
+2017,utilities,10_plus,edi,3.2
+2017,utilities,10_plus,total,16.6
+2018,utilities,10_plus,website,10.5
+2018,utilities,10_plus,edi,3.3
+2018,utilities,10_plus,total,13.7
+2019,utilities,10_plus,website,14.9
+2019,utilities,10_plus,edi,3.9
+2019,utilities,10_plus,total,18.8
+2015,utilities,all_includes_0_9,website,15.2
+2015,utilities,all_includes_0_9,edi,4.6
+2015,utilities,all_includes_0_9,total,19.8
+2016,utilities,all_includes_0_9,website,9.4
+2016,utilities,all_includes_0_9,edi,2.9
+2016,utilities,all_includes_0_9,total,12.3
+2017,utilities,all_includes_0_9,website,13.5
+2017,utilities,all_includes_0_9,edi,3.3
+2017,utilities,all_includes_0_9,total,16.8
+2018,utilities,all_includes_0_9,website,10.5
+2018,utilities,all_includes_0_9,edi,3.3
+2018,utilities,all_includes_0_9,total,13.8
+2019,utilities,all_includes_0_9,website,15.0
+2019,utilities,all_includes_0_9,edi,3.9
+2019,utilities,all_includes_0_9,total,19.0
+2010,construction,10_plus,website,0.2
+2010,construction,10_plus,edi,3.1
+2010,construction,10_plus,total,3.3
+2011,construction,10_plus,website,0.5
+2011,construction,10_plus,edi,3.6
+2011,construction,10_plus,total,4.2
+2012,construction,10_plus,website,0.8
+2012,construction,10_plus,edi,3.0
+2012,construction,10_plus,total,3.8
+2013,construction,10_plus,website,0.5
+2013,construction,10_plus,edi,3.9
+2013,construction,10_plus,total,4.4
+2014,construction,10_plus,website,1.4
+2014,construction,10_plus,edi,4.1
+2014,construction,10_plus,total,5.5
+2015,construction,10_plus,website,1.2
+2015,construction,10_plus,edi,6.6
+2015,construction,10_plus,total,7.8
+2016,construction,10_plus,website,0.6
+2016,construction,10_plus,edi,7.6
+2016,construction,10_plus,total,8.2
+2017,construction,10_plus,website,1.9
+2017,construction,10_plus,edi,6.0
+2017,construction,10_plus,total,7.9
+2018,construction,10_plus,website,2.5
+2018,construction,10_plus,edi,6.4
+2018,construction,10_plus,total,9.0
+2019,construction,10_plus,website,2.3
+2019,construction,10_plus,edi,9.3
+2019,construction,10_plus,total,11.5
+2015,construction,all_includes_0_9,website,2.0
+2015,construction,all_includes_0_9,edi,6.8
+2015,construction,all_includes_0_9,total,8.8
+2016,construction,all_includes_0_9,website,1.4
+2016,construction,all_includes_0_9,edi,7.6
+2016,construction,all_includes_0_9,total,9.0
+2017,construction,all_includes_0_9,website,2.3
+2017,construction,all_includes_0_9,edi,6.1
+2017,construction,all_includes_0_9,total,8.4
+2018,construction,all_includes_0_9,website,4.3
+2018,construction,all_includes_0_9,edi,6.5
+2018,construction,all_includes_0_9,total,10.8
+2019,construction,all_includes_0_9,website,3.4
+2019,construction,all_includes_0_9,edi,9.8
+2019,construction,all_includes_0_9,total,13.2
+2010,wholesale,10_plus,website,42.1
+2010,wholesale,10_plus,edi,125.4
+2010,wholesale,10_plus,total,167.5
+2011,wholesale,10_plus,website,40.1
+2011,wholesale,10_plus,edi,143.4
+2011,wholesale,10_plus,total,183.5
+2012,wholesale,10_plus,website,48.2
+2012,wholesale,10_plus,edi,125.7
+2012,wholesale,10_plus,total,173.9
+2013,wholesale,10_plus,website,59.6
+2013,wholesale,10_plus,edi,168.5
+2013,wholesale,10_plus,total,228.1
+2014,wholesale,10_plus,website,53.9
+2014,wholesale,10_plus,edi,116.8
+2014,wholesale,10_plus,total,170.7
+2015,wholesale,10_plus,website,55.4
+2015,wholesale,10_plus,edi,84.3
+2015,wholesale,10_plus,total,139.7
+2016,wholesale,10_plus,website,53.4
+2016,wholesale,10_plus,edi,77.7
+2016,wholesale,10_plus,total,131.1
+2017,wholesale,10_plus,website,67.4
+2017,wholesale,10_plus,edi,92.2
+2017,wholesale,10_plus,total,159.6
+2018,wholesale,10_plus,website,87.8
+2018,wholesale,10_plus,edi,110.3
+2018,wholesale,10_plus,total,198.2
+2019,wholesale,10_plus,website,91.0
+2019,wholesale,10_plus,edi,117.7
+2019,wholesale,10_plus,total,208.7
+2015,wholesale,all_includes_0_9,website,60.5
+2015,wholesale,all_includes_0_9,edi,84.6
+2015,wholesale,all_includes_0_9,total,145.0
+2016,wholesale,all_includes_0_9,website,59.3
+2016,wholesale,all_includes_0_9,edi,82.5
+2016,wholesale,all_includes_0_9,total,141.8
+2017,wholesale,all_includes_0_9,website,74.6
+2017,wholesale,all_includes_0_9,edi,96.4
+2017,wholesale,all_includes_0_9,total,171.1
+2018,wholesale,all_includes_0_9,website,103.8
+2018,wholesale,all_includes_0_9,edi,115.3
+2018,wholesale,all_includes_0_9,total,219.1
+2019,wholesale,all_includes_0_9,website,96.0
+2019,wholesale,all_includes_0_9,edi,118.7
+2019,wholesale,all_includes_0_9,total,214.7
+2010,retail,10_plus,website,12.9
+2010,retail,10_plus,edi,1.8
+2010,retail,10_plus,total,14.7
+2011,retail,10_plus,website,17.9
+2011,retail,10_plus,edi,3.1
+2011,retail,10_plus,total,21.1
+2012,retail,10_plus,website,22.0
+2012,retail,10_plus,edi,1.1
+2012,retail,10_plus,total,23.1
+2013,retail,10_plus,website,24.0
+2013,retail,10_plus,edi,2.4
+2013,retail,10_plus,total,26.3
+2014,retail,10_plus,website,26.8
+2014,retail,10_plus,edi,1.7
+2014,retail,10_plus,total,28.5
+2015,retail,10_plus,website,27.9
+2015,retail,10_plus,edi,2.0
+2015,retail,10_plus,total,29.9
+2016,retail,10_plus,website,32.2
+2016,retail,10_plus,edi,2.3
+2016,retail,10_plus,total,34.5
+2017,retail,10_plus,website,42.8
+2017,retail,10_plus,edi,2.7
+2017,retail,10_plus,total,45.4
+2018,retail,10_plus,website,45.2
+2018,retail,10_plus,edi,4.8
+2018,retail,10_plus,total,49.9
+2019,retail,10_plus,website,45.7
+2019,retail,10_plus,edi,7.8
+2019,retail,10_plus,total,53.5
+2015,retail,all_includes_0_9,website,32.0
+2015,retail,all_includes_0_9,edi,2.5
+2015,retail,all_includes_0_9,total,34.5
+2016,retail,all_includes_0_9,website,36.4
+2016,retail,all_includes_0_9,edi,3.0
+2016,retail,all_includes_0_9,total,39.4
+2017,retail,all_includes_0_9,website,47.1
+2017,retail,all_includes_0_9,edi,2.7
+2017,retail,all_includes_0_9,total,49.8
+2018,retail,all_includes_0_9,website,52.9
+2018,retail,all_includes_0_9,edi,4.9
+2018,retail,all_includes_0_9,total,57.7
+2019,retail,all_includes_0_9,website,52.2
+2019,retail,all_includes_0_9,edi,8.2
+2019,retail,all_includes_0_9,total,60.4
+2010,transport & storage,10_plus,website,16.5
+2010,transport & storage,10_plus,edi,22.5
+2010,transport & storage,10_plus,total,39.0
+2011,transport & storage,10_plus,website,21.8
+2011,transport & storage,10_plus,edi,22.2
+2011,transport & storage,10_plus,total,44.0
+2012,transport & storage,10_plus,website,24.8
+2012,transport & storage,10_plus,edi,17.0
+2012,transport & storage,10_plus,total,41.8
+2013,transport & storage,10_plus,website,24.5
+2013,transport & storage,10_plus,edi,20.4
+2013,transport & storage,10_plus,total,44.9
+2014,transport & storage,10_plus,website,34.8
+2014,transport & storage,10_plus,edi,14.0
+2014,transport & storage,10_plus,total,48.8
+2015,transport & storage,10_plus,website,30.5
+2015,transport & storage,10_plus,edi,23.9
+2015,transport & storage,10_plus,total,54.4
+2016,transport & storage,10_plus,website,34.2
+2016,transport & storage,10_plus,edi,22.8
+2016,transport & storage,10_plus,total,57.0
+2017,transport & storage,10_plus,website,35.9
+2017,transport & storage,10_plus,edi,27.5
+2017,transport & storage,10_plus,total,63.4
+2018,transport & storage,10_plus,website,40.4
+2018,transport & storage,10_plus,edi,33.5
+2018,transport & storage,10_plus,total,73.9
+2019,transport & storage,10_plus,website,40.7
+2019,transport & storage,10_plus,edi,36.9
+2019,transport & storage,10_plus,total,77.6
+2015,transport & storage,all_includes_0_9,website,30.6
+2015,transport & storage,all_includes_0_9,edi,23.9
+2015,transport & storage,all_includes_0_9,total,54.5
+2016,transport & storage,all_includes_0_9,website,34.6
+2016,transport & storage,all_includes_0_9,edi,22.8
+2016,transport & storage,all_includes_0_9,total,57.4
+2017,transport & storage,all_includes_0_9,website,37.2
+2017,transport & storage,all_includes_0_9,edi,27.5
+2017,transport & storage,all_includes_0_9,total,64.8
+2018,transport & storage,all_includes_0_9,website,40.8
+2018,transport & storage,all_includes_0_9,edi,33.8
+2018,transport & storage,all_includes_0_9,total,74.6
+2019,transport & storage,all_includes_0_9,website,41.5
+2019,transport & storage,all_includes_0_9,edi,36.9
+2019,transport & storage,all_includes_0_9,total,78.4
+2010,accommodation & food services,10_plus,website,4.5
+2010,accommodation & food services,10_plus,edi,0.7
+2010,accommodation & food services,10_plus,total,5.3
+2011,accommodation & food services,10_plus,website,4.9
+2011,accommodation & food services,10_plus,edi,0.9
+2011,accommodation & food services,10_plus,total,5.8
+2012,accommodation & food services,10_plus,website,8.3
+2012,accommodation & food services,10_plus,edi,0.8
+2012,accommodation & food services,10_plus,total,9.0
+2013,accommodation & food services,10_plus,website,8.8
+2013,accommodation & food services,10_plus,edi,1.6
+2013,accommodation & food services,10_plus,total,10.4
+2014,accommodation & food services,10_plus,website,8.3
+2014,accommodation & food services,10_plus,edi,2.3
+2014,accommodation & food services,10_plus,total,10.6
+2015,accommodation & food services,10_plus,website,8.8
+2015,accommodation & food services,10_plus,edi,1.2
+2015,accommodation & food services,10_plus,total,10.1
+2016,accommodation & food services,10_plus,website,10.1
+2016,accommodation & food services,10_plus,edi,1.6
+2016,accommodation & food services,10_plus,total,11.8
+2017,accommodation & food services,10_plus,website,12.7
+2017,accommodation & food services,10_plus,edi,1.3
+2017,accommodation & food services,10_plus,total,14.0
+2018,accommodation & food services,10_plus,website,12.0
+2018,accommodation & food services,10_plus,edi,1.4
+2018,accommodation & food services,10_plus,total,13.4
+2019,accommodation & food services,10_plus,website,15.5
+2019,accommodation & food services,10_plus,edi,1.9
+2019,accommodation & food services,10_plus,total,17.4
+2015,accommodation & food services,all_includes_0_9,website,9.7
+2015,accommodation & food services,all_includes_0_9,edi,1.2
+2015,accommodation & food services,all_includes_0_9,total,10.9
+2016,accommodation & food services,all_includes_0_9,website,11.3
+2016,accommodation & food services,all_includes_0_9,edi,1.6
+2016,accommodation & food services,all_includes_0_9,total,12.9
+2017,accommodation & food services,all_includes_0_9,website,13.4
+2017,accommodation & food services,all_includes_0_9,edi,1.3
+2017,accommodation & food services,all_includes_0_9,total,14.7
+2018,accommodation & food services,all_includes_0_9,website,13.0
+2018,accommodation & food services,all_includes_0_9,edi,1.5
+2018,accommodation & food services,all_includes_0_9,total,14.4
+2019,accommodation & food services,all_includes_0_9,website,15.9
+2019,accommodation & food services,all_includes_0_9,edi,2.0
+2019,accommodation & food services,all_includes_0_9,total,17.9
+2010,information & communication,10_plus,website,16.4
+2010,information & communication,10_plus,edi,13.4
+2010,information & communication,10_plus,total,29.8
+2011,information & communication,10_plus,website,19.3
+2011,information & communication,10_plus,edi,18.5
+2011,information & communication,10_plus,total,37.8
+2012,information & communication,10_plus,website,22.3
+2012,information & communication,10_plus,edi,20.3
+2012,information & communication,10_plus,total,42.6
+2013,information & communication,10_plus,website,22.2
+2013,information & communication,10_plus,edi,20.1
+2013,information & communication,10_plus,total,42.3
+2014,information & communication,10_plus,website,20.9
+2014,information & communication,10_plus,edi,9.7
+2014,information & communication,10_plus,total,30.7
+2015,information & communication,10_plus,website,24.0
+2015,information & communication,10_plus,edi,5.8
+2015,information & communication,10_plus,total,29.8
+2016,information & communication,10_plus,website,25.6
+2016,information & communication,10_plus,edi,6.2
+2016,information & communication,10_plus,total,31.8
+2017,information & communication,10_plus,website,31.9
+2017,information & communication,10_plus,edi,8.2
+2017,information & communication,10_plus,total,40.1
+2018,information & communication,10_plus,website,43.9
+2018,information & communication,10_plus,edi,11.7
+2018,information & communication,10_plus,total,55.6
+2019,information & communication,10_plus,website,46.7
+2019,information & communication,10_plus,edi,10.8
+2019,information & communication,10_plus,total,57.5
+2015,information & communication,all_includes_0_9,website,25.9
+2015,information & communication,all_includes_0_9,edi,6.2
+2015,information & communication,all_includes_0_9,total,32.0
+2016,information & communication,all_includes_0_9,website,26.6
+2016,information & communication,all_includes_0_9,edi,6.2
+2016,information & communication,all_includes_0_9,total,32.8
+2017,information & communication,all_includes_0_9,website,33.7
+2017,information & communication,all_includes_0_9,edi,8.6
+2017,information & communication,all_includes_0_9,total,42.3
+2018,information & communication,all_includes_0_9,website,45.1
+2018,information & communication,all_includes_0_9,edi,11.9
+2018,information & communication,all_includes_0_9,total,57.1
+2019,information & communication,all_includes_0_9,website,49.7
+2019,information & communication,all_includes_0_9,edi,10.8
+2019,information & communication,all_includes_0_9,total,60.5
+2010,other services,10_plus,website,12.4
+2010,other services,10_plus,edi,6.8
+2010,other services,10_plus,total,19.1
+2011,other services,10_plus,website,17.2
+2011,other services,10_plus,edi,9.5
+2011,other services,10_plus,total,26.7
+2012,other services,10_plus,website,18.9
+2012,other services,10_plus,edi,5.1
+2012,other services,10_plus,total,24.1
+2013,other services,10_plus,website,19.5
+2013,other services,10_plus,edi,6.3
+2013,other services,10_plus,total,25.8
+2014,other services,10_plus,website,19.8
+2014,other services,10_plus,edi,5.6
+2014,other services,10_plus,total,25.4
+2015,other services,10_plus,website,23.0
+2015,other services,10_plus,edi,7.6
+2015,other services,10_plus,total,30.6
+2016,other services,10_plus,website,27.9
+2016,other services,10_plus,edi,8.9
+2016,other services,10_plus,total,36.9
+2017,other services,10_plus,website,30.6
+2017,other services,10_plus,edi,8.9
+2017,other services,10_plus,total,39.5
+2018,other services,10_plus,website,33.9
+2018,other services,10_plus,edi,8.3
+2018,other services,10_plus,total,42.2
+2019,other services,10_plus,website,30.2
+2019,other services,10_plus,edi,7.6
+2019,other services,10_plus,total,37.9
+2015,other services,all_includes_0_9,website,27.2
+2015,other services,all_includes_0_9,edi,8.2
+2015,other services,all_includes_0_9,total,35.4
+2016,other services,all_includes_0_9,website,31.0
+2016,other services,all_includes_0_9,edi,9.2
+2016,other services,all_includes_0_9,total,40.2
+2017,other services,all_includes_0_9,website,34.8
+2017,other services,all_includes_0_9,edi,9.5
+2017,other services,all_includes_0_9,total,44.3
+2018,other services,all_includes_0_9,website,36.8
+2018,other services,all_includes_0_9,edi,8.6
+2018,other services,all_includes_0_9,total,45.4
+2019,other services,all_includes_0_9,website,33.0
+2019,other services,all_includes_0_9,edi,8.0
+2019,other services,all_includes_0_9,total,41.0
+2010,all,10_plus,website,118.5
+2010,all,10_plus,edi,300.5
+2010,all,10_plus,total,419.0
+2011,all,10_plus,website,147.8
+2011,all,10_plus,edi,341.2
+2011,all,10_plus,total,489.0
+2012,all,10_plus,website,172.9
+2012,all,10_plus,edi,300.7
+2012,all,10_plus,total,473.6
+2013,all,10_plus,website,198.0
+2013,all,10_plus,edi,346.8
+2013,all,10_plus,total,544.7
+2014,all,10_plus,website,210.4
+2014,all,10_plus,edi,284.1
+2014,all,10_plus,total,494.5
+2015,all,10_plus,website,218.1
+2015,all,10_plus,edi,257.2
+2015,all,10_plus,total,475.4
+2016,all,10_plus,website,230.4
+2016,all,10_plus,edi,255.0
+2016,all,10_plus,total,485.4
+2017,all,10_plus,website,275.4
+2017,all,10_plus,edi,279.9
+2017,all,10_plus,total,555.2
+2018,all,10_plus,website,322.3
+2018,all,10_plus,edi,317.3
+2018,all,10_plus,total,639.7
+2019,all,10_plus,website,334.9
+2019,all,10_plus,edi,334.0
+2019,all,10_plus,total,668.9
+2015,all,all_includes_0_9,website,236.6
+2015,all,all_includes_0_9,edi,259.6
+2015,all,all_includes_0_9,total,496.2
+2016,all,all_includes_0_9,website,247.9
+2016,all,all_includes_0_9,edi,260.9
+2016,all,all_includes_0_9,total,508.8
+2017,all,all_includes_0_9,website,296.7
+2017,all,all_includes_0_9,edi,285.5
+2017,all,all_includes_0_9,total,582.2
+2018,all,all_includes_0_9,website,354.4
+2018,all,all_includes_0_9,edi,323.4
+2018,all,all_includes_0_9,total,677.8
+2019,all,all_includes_0_9,website,356.4
+2019,all,all_includes_0_9,edi,336.6
+2019,all,all_includes_0_9,total,693.0
